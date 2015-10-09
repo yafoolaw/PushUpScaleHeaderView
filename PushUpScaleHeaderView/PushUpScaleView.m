@@ -8,7 +8,7 @@
 
 #import "PushUpScaleView.h"
 
-#define  Width                             [UIScreen mainScreen].bounds.size.width
+#define  Width  [UIScreen mainScreen].bounds.size.width
 
 @interface PushUpScaleView ()
 
